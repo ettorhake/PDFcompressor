@@ -1,0 +1,14 @@
+DÉMARRAGE RAPIDE - PDF Compressor
+
+1. Double-cliquez sur PDFCompressor.exe
+2. Glissez votre PDF dans la fenêtre
+3. Cliquez sur "Comprimer le PDF"
+4. Attendez la fin du traitement
+5. Votre fichier compressé est prêt !
+
+Paramètres recommandés pour débuter:
+- Qualité JPEG: 85%
+- Résolution DPI: 150
+
+Le fichier compressé sera créé dans le même dossier 
+que votre fichier original avec le nom "..._compressed.pdf"
